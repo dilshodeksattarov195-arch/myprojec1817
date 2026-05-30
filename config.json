@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsrave",
+        "uuid": 15101087,
+        "checksum": "mq9sl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
